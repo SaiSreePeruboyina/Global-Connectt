@@ -37,9 +37,9 @@ dependencies:
   firebase_core: ^3.1.1
   cloud_firestore: ^5.0.2
   google_nav_bar: ^5.0.6
-  carousel_slider: ^4.2.1
+  carousel_slider: ^5.1.0
   google_maps_flutter: ^2.7.0
-  google_fonts: ^6.2.1
+  google_fonts: ^6.3.2
   # geolocator: any
   # location: ^4.3.0
  
